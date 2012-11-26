@@ -5,3 +5,5 @@ Testando associação do codigo com a issue
 Testando associação do codigo com a issue aberta novamente com outro usuario
 
 Testando fork e pull request
+
+Teste branch e merge
